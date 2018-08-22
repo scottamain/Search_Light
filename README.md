@@ -9,6 +9,8 @@ I also added a viewfinder using the camera so you can see into tight spots that 
 
 **I no longer support this app** because I foolishly lost my signing key and so have been unable to upload a new APK to Google Play. But all devices since Android 4.0 now include a built-in flashlight, so there's been no need for me to support it anyway. The app has also been removed from Google Play because I also failed to re-agree to the store's new terms of service. ¯\_(ツ)_/¯
 
+This repo is merely a copy of the last snapshot available from the original [Google Code project](https://code.google.com/archive/p/search-light/source/default/commits), which is actually an unreleased version of the Search Light app. So this code isn't quite stable and I don't know how well it actually works.
+
 But if you're interested, you're free to use the code here. It's not pretty and it includes some code kludges that were required for some device compatibility (looking at you OG Droid!).
 
 
