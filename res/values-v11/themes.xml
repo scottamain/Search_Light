@@ -1,0 +1,7 @@
+<resources>
+    <style name="CompatibilityTheme" parent="@android:style/Theme.Holo.NoActionBar">
+        <!-- Inherits the Holo theme -->
+        <item name="switchStyle">@style/LightSwitch</item>
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+</resources>

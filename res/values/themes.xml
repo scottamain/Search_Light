@@ -1,0 +1,7 @@
+<resources>
+    <style name="CompatibilityTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <!-- Inherits the default theme for pre-HC (no action bar) -->
+        <item name="switchStyle">@style/LightSwitch</item>
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+</resources>

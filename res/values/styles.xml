@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="LightSwitch">
+        <item name="track">@drawable/switch_bg_focused_holo_dark</item>
+        <item name="thumb">@drawable/switch_thumb</item>
+        <item name="switchTextAppearance">@style/LightSwitch.TextStyle</item>
+        <item name="textOn">@string/switch_on</item>
+        <item name="textOff">@string/switch_off</item>
+        <item name="thumbTextPadding">12dp</item>
+        <item name="switchMinWidth">96dp</item>
+        <item name="switchPadding">12dp</item>
+        <item name="thumbMinHeight">100dp</item>
+    </style>
+    
+    <style name="LightSwitch.TextStyle" parent="@android:style/TextAppearance">
+        <!-- Switch thumb asset presents a dark background. -->
+        <item name="textColor">@color/switch_thumb_text</item>
+        <item name="textSize">20sp</item>
+    </style>
+    
+</resources>

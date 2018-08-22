@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="dialog_camera_na" />
+    <item type="id" name="mode_lightbulb" />
+    <item type="id" name="mode_lightswitch" />
+    <item type="id" name="mode_viewfinder" />
+    <item type="id" name="mode_blackout" />
+</resources>
